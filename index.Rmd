@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "A Different Mini Bookdown"
+author: "Natalie Vielfaure"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
